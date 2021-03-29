@@ -1,0 +1,30 @@
+.one{
+    background-color: #5e068a;
+    font-size: 13px;
+    padding: 9px;
+}
+.two{
+    padding-left: 120px;
+}
+.three{
+    padding-left: 125px;
+}
+svg{
+    width: 13px;
+}
+ul{
+    color: #010203;
+    display: block;
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+    position: relative;
+    padding: 15px;
+}
+li{
+    padding-right: 20px;
+}
+
+#navbarSupportedContent{
+    padding-left: 366px;
+}
